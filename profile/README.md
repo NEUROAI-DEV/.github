@@ -1,4 +1,4 @@
-##system architecture
+## System Architecture
 
 
 <img width="1536" height="1024" alt="neuro AI architecture" src="https://github.com/user-attachments/assets/f68046be-33c7-4a22-ad9f-cc9aaf34af47" />
